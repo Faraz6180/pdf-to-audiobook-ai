@@ -1,0 +1,10 @@
+gradio
+pymupdf
+pydub
+transformers>=4.40.0
+torch
+sentencepiece
+accelerate
+ffmpeg-python
+scikit-learn
+numpy
