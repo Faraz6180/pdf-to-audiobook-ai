@@ -10,7 +10,7 @@
 
 ---
 
-## 📸 UI Screenshot.
+## 📸 UI Screenshot
 
 <img width="1350" height="602" alt="image" src="https://github.com/user-attachments/assets/73d117ee-11e2-43c8-8a7c-60652e1be9ca" />
 
