@@ -17,7 +17,7 @@
 
 ---
 
-## ✨ Features
+## ✨ Features.
 
 * 📚 Convert PDFs into audiobooks
 * 🧠 AI-powered summarization
