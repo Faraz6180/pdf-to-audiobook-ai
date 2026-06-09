@@ -52,7 +52,7 @@ Final Output
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack..
 
 * **UI:** Gradio
 * **Backend:** Python
