@@ -28,7 +28,7 @@
 
 ---
 
-## 🧠 System Architecture.
+## 🧠 System Architecture
 
 ```text
 PDF Upload
